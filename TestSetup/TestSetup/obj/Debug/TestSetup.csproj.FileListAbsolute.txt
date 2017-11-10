@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2017\Projects\TestSetup\TestSetup\bin\Debug\TestSetup.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\TestSetup\TestSetup\bin\Debug\TestSetup.exe
+c:\users\acer\documents\visual studio 2017\Projects\TestSetup\TestSetup\bin\Debug\TestSetup.pdb
+c:\users\acer\documents\visual studio 2017\Projects\TestSetup\TestSetup\obj\Debug\TestSetup.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\TestSetup\TestSetup\obj\Debug\TestSetup.Form1.resources
+c:\users\acer\documents\visual studio 2017\Projects\TestSetup\TestSetup\obj\Debug\TestSetup.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2017\Projects\TestSetup\TestSetup\obj\Debug\TestSetup.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2017\Projects\TestSetup\TestSetup\obj\Debug\TestSetup.exe
+c:\users\acer\documents\visual studio 2017\Projects\TestSetup\TestSetup\obj\Debug\TestSetup.pdb
